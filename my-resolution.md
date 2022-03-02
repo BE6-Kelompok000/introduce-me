@@ -15,6 +15,10 @@ Apakah yang membedakan Protocol Buffer dengan REST Api?
 
 ### Ecommerce Use Case and Application
 Apakah business case yang menarik pada ecommerce?
+apakah disini akan CONFLICT?
+apakah disini akan CONFLICT?
+apakah disini akan CONFLICT?
+
 Bagaimana menulis koding untuk memenuhi business case tersebut?
 
 ## Tohamba
